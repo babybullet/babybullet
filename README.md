@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
 <h3 align="center">An enthusiast fresher passionate about Databases, Analytics and all the scrapping visuals.</h3>
 
-- 🌱 I’m currently learning **Python that will gonna help me to derive faster and better insights about the data.**
+- 🌱 I’m currently learning **Python that will gonna help me to derive faster and better insights about the data, Earlier i worked mostly on R.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/babybullet](https://github.com/babybullet)
 
