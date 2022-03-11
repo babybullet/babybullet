@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
-<h3 align="center">A newbie fresher passionate about Databases, Analytics and all the scrapping visuals.</h3>
+<h3 align="center">An enthusiast fresher passionate about Databases, Analytics and all the scrapping visuals.</h3>
 
-- 🌱 I’m currently learning **Python used for Data Science that will be going to help me with ML and DL operations.**
+- 🌱 I’m currently learning **Python that will gonna help me to derive faster and better insights about the data.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/babybullet](https://github.com/babybullet)
 
-- 💬 Ask me about **SQL,Tableau, Power BI, informatica cloud and powercenter, Life advices😛**
+- 💬 Ask me about **SQL, Tableau, Power BI, informatica cloud and powercenter and why not about Life advices😛**
 
 - 📫 How to reach me **kaushikanmol62@gmail.com, 6000863833**
 
