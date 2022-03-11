@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
-<h3 align="center">A boy passionate about Databases and Analytics.</h3>
+<h3 align="center">A newbie fresher passionate about Databases, Analytics and all the scrapping visuals.</h3>
 
 - 🌱 I’m currently learning **Python used for Data Science that will be going to help me with ML and DL operations.**
 
