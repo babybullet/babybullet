@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **SQL, Tableau, Power BI, informatica cloud and powercenter and why not about Life advices😛**
 
-- 📫 How to reach me **kaushikanmol62@gmail.com, 6000863833**
+- 📫 How to reach me **kaushikanmol62@gmail.com, 9678522211**
 
 - ⚡ Fun fact **I’m a dog lover. I like dogs more than any animal. Sometimes, more than humans!**
 
